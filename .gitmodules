@@ -1,0 +1,4 @@
+[submodule "gittest"]
+	path = gittest
+	url = https://github.com/ranjitbalu/Gittest1.git
+	branch = master
